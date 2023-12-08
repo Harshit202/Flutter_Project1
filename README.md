@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+Getting Started with flutter to built a mobile application for my project.
 
 ## Getting Started
 
